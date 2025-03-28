@@ -3,10 +3,13 @@ This is the source code for the paper: TAD-Saudi: An Explainable AI Framework fo
 
 # Files
 - `Data_processing.ipynb` Contains functions for collecting and preprocessing data.
+- `Models.ipynb` Contains all the models in the paper.
 - `Analysis.ipynb` Contains codes for analyzing the results.
+
 
 # Requirements
 The code requires Python 3.x and the following Python libraries installed:
+- requests
 - pytorch_tabnet
 - transformers
 - category_encoders
