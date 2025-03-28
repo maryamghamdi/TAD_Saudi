@@ -28,5 +28,10 @@ The code requires Python 3.x and the following Python libraries installed:
 - os
 - shap
 
+You can install the required packages using:
+```bash
+pip install -r requirements.txt
+```
+
 # Dataset
 The data used in the code is uploaded in the file `TAD_Saudi_Finance_Apps.csv`
