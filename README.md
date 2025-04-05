@@ -43,7 +43,7 @@ The dataset was collected by the authors using web scraping techniques and APIs,
 | Column Name        | Description |
 |--------------------|-------------|
 | `app_id`           | Unique identifier of the app, typically its package name. |
-| `app_name`         | Name of the financial app. |
+| `app_name`         | Name of the app. |
 | `description`      | Arabic-language description of the app from the store. |
 | `rating`           | Average user rating of the app (on a 1–5 scale). |
 | `total_ratings`    | Total number of user ratings received. |
