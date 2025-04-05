@@ -39,12 +39,7 @@ This dataset contains metadata, user reviews, and permissions for **246 financia
 The dataset was collected by the authors using web scraping techniques and APIs, and **manually labeled**.
 
 ### Columns Description
-`app_id`: Unique identifier of the app, typically its package name.
-`app_name`: Name of the financial app as it appears on the store.
-`description`: Arabic-language description of the app from the store.
-`rating`: Average user rating of the app.
-`total_ratings`: Total number of ratings submitted by users.
-`review_1 to review_20`: Arabic user reviews extracted from the app store.
+: 
 `rating_1 to rating_20`: Numerical rating (1 to 5 stars) corresponding to each review.
 `permission_1 to permission_14`: List of permissions requested by the app, written in Arabic (e.g., camera access, storage, microphone, etc.). Missing values in these columns indicate that the app does not request the corresponding permission.
 `Label`: Classification of the app as Real (trustworthy) or Fake (untrustworthy).
@@ -56,3 +51,8 @@ The dataset was collected by the authors using web scraping techniques and APIs,
 | `description`      | Arabic-language description of the app from the store. |
 | `rating`           | Average user rating of the app (on a 1–5 scale). |
 | `total_ratings`    | Total number of user ratings received. |
+| `review_1` to `review_20` | User-written reviews in Arabic for each app. |
+| `rating_1` to `rating_20` | Star rating (1 to 5) provided by the user for each corresponding review. |
+| `permission_1` to `permission_14` | Permissions requested by the app (e.g., storage, camera, microphone), written in Arabic. |
+| _Note:_ Missing values in these columns indicate that the app **does not request** the corresponding permission. |
+| `Label`     | Classification of the app as `Real` (**trustworthy**) or `Fake` (**untrustworthy**). |
