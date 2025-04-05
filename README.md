@@ -40,7 +40,7 @@ The dataset was collected by the authors using web scraping techniques and APIs,
 
 ### Columns Description
 
-| Column Name        | Description |
+| Column(s) Name        | Description |
 |--------------------|-------------|
 | `app_id`           | Unique identifier of the app, typically its package name. |
 | `app_name`         | Name of the app. |
