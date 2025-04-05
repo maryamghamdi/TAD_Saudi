@@ -1,5 +1,5 @@
 # TAD-Saudi: An Explainable AI Framework for Trustworthy Financial App Detection
-This is the source code for the paper: TAD-Saudi: An Explainable AI Framework for Trustworthy Financial App Detection
+This is the source code for the paper: TAD-Saudi: An Explainable AI Framework for Trustworthy Financial App Detection by Dr.Raed Alharbi and Maryam Alghamdi.
 
 # Files
 - `Data_processing.ipynb` Contains functions for collecting and preprocessing data.
