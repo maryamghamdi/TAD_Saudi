@@ -36,7 +36,7 @@ pip install -r requirements.txt
 # Dataset
 The data used in the code is uploaded in the file `TAD_Saudi_Finance_Apps.csv`.  
 This dataset contains metadata, user reviews, and permissions for **246 financial apps** available in the **Saudi Android store**.  
-The dataset was collected by the authors using web scraping techniques and APIs, and **manually labeled**.
+The dataset was collected by the authors on January 2025 using web scraping techniques and APIs, and **manually labeled**.
 
 ### Columns Description
 
