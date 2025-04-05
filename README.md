@@ -42,7 +42,7 @@ The dataset was collected by the authors on January 2025 using web scraping tech
 
 | Column(s) Name        | Description |
 |--------------------|-------------|
-| `app_id`           | Unique identifier of the app, typically its package name. |
+| `app_id`           | Unique identifier of the app. |
 | `app_name`         | Name of the app. |
 | `description`      | Arabic-language description of the app from the store. |
 | `rating`           | Average user rating of the app (on a 1–5 scale). |
