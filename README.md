@@ -1,6 +1,8 @@
 <!-- # TAD-Saudi: An Explainable AI Framework for Trustworthy Financial App Detection -->
 # TAD-Saudi: Trustworthy App Detection in Saudi Mobile Finance: Bridging Deep Learning and Interpretability
-This is the dataset created and uded in the paper: Trustworthy App Detection in Saudi Mobile Finance: Bridging Deep Learning and Interpretability by Dr.Raed Alharbi and Maryam Alghamdi.
+This dataset was created and used in the paper Trustworthy App Detection in Saudi Mobile Finance: Bridging Deep Learning and Interpretability by Dr. Raed Alharbi and Maryam Alghamdi.
+
+
 
 <!-- # Files
 - `Data_processing.ipynb` Contains functions for collecting and preprocessing data.
